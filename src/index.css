@@ -1,0 +1,23 @@
+:root {
+  --light: #f8f8f8;
+  --dark: #313131;
+  --grey: #888;
+  --primary: #ffce00;
+  --secondary: #fe4880;
+  --alert: #ff1e2d;
+
+
+}
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: montserrat, sans-serif;
+}
+
+input, button{
+  border: none;
+  outline: none;
+  background: none;
+}
